@@ -1,6 +1,6 @@
 # MME_calculation
 
-MERLIN_3664_MEDS.csv is the opioid MEDS data.<br />
+MERLIN_3664_MEDS.csv is the MEDS data.<br />
 Prescription_sample.xlsx is the small subset of prescription as an example.
 
 
