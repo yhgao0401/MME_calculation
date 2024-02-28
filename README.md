@@ -4,7 +4,7 @@ MERLIN_3664_MEDS.csv is the opioid MEDS data.<br />
 Prescription_sample.xlsx is the small subset of prescription as an example.
 
 
-processData.py is processing MEDS data, like extracting the strength and transforming the unit.<br />
+processData.py is processing MEDS and prescription data, like extracting the strength and excluding invalid prescription.<br />
 MME.py defines the functions used to calculate MME.<br />
 You only need to run fianlCalculation.py to get the results.
 
